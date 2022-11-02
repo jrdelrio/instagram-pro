@@ -1,0 +1,41 @@
+#icon-like,
+#icon-comment,
+#icon-dm,
+#icon-bookmark {
+    font-size: 32px;
+    margin-left: 5px;
+}
+#icon-like,
+#icon-comment,
+#icon-dm{
+    position: relative;
+}
+
+.icons {
+    text-align: left;
+    display: inline;
+}
+.icons p {
+    margin: 5px 0px 5px 0
+}
+#icon-bookmark {
+    float: right;
+    margin-right: 10px;
+}
+
+.post-body p {
+    padding: 0px 10px 5px 10px;
+    text-align: justify;
+}
+
+.body-likes {
+    margin: 10px 0px 10px 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}
+
+.body-text {
+    margin-top: 8px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}

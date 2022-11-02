@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+.wrapper {
+    background-color: white;
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    max-height: 120%;
+    object-fit: contain;
+    max-width: 620px;
+}
+
+.header{
+    display: inline;
+}
+.post-header {
+    display: inline;
+    float: left;
+    text-align: left;
+    margin: 10px 0px 0px 7px;
+}
+
+#icon-puntos {
+    float: right;
+    font-size: 34px;
+    margin: 9px 15px 6px 0px;
+
+}
+
+.post-header p,
+.post-header b {
+    margin: 0px;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}
+
+#icon-html,
+.post-header,
+.fa-solid, .fas{
+    display: inline;
+}
+
+.fa-brands, .fab {
+    margin-top: 10px;
+    margin-left: 0px;
+    font-size: 40px;
+    text-align: left;
+}
+
+#icon-html{
+    text-align: left;
+    display: block;
+    position: relative;
+    margin: 8px 0px 8px 8px;
+    float: left;
+
+}

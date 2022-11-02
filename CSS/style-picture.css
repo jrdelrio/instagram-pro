@@ -1,0 +1,8 @@
+.post-picture {
+    text-align: center;
+}
+
+.post-picture img {
+    max-width: 100%;
+    object-fit: content;
+}
